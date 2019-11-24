@@ -1,0 +1,10 @@
+{"stardewItems":[
+  { "itemName":"Sun Fish", "bundle":"River Fish", "Spring": true, "Summer": true,"Fall": false, "Winter": false},
+  { "itemName":"Carp", "bundle":"River Fish", "Spring": true, "Summer": true,"Fall": true, "Winter": true} },
+  { "itemName":"Bullhead", "bundle":"River Fish", "Spring": true, "Summer": true,"Fall": true, "Winter": true} },
+  { "itemName":"Sturgeon", "bundle":"River Fish", "Spring": false, "Summer": true,"Fall": false, "Winter": true} },
+  { "itemName":"Sardine", "bundle":"Ocean Fish", "Spring": true, "Summer": false,"Fall": true, "Winter": true} },
+  { "itemName":"Tuna", "bundle":"Ocean Fish", "Spring": false, "Summer": true,"Fall": false, "Winter": true} },
+  { "itemName":"Red Snapper", "bundle":"Ocean Fish", "Spring": false, "Summer": true,"Fall": true, "Winter": false} },
+  { "itemName":"Talapia", "bundle":"Ocean Fish", "Spring": false, "Summer": true,"Fall": true, "Winter": false} },
+]}
