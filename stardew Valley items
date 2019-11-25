@@ -1,10 +1,10 @@
 {"stardewItems":[
-  { "itemName":"Sun Fish", room:"fish tank", "bundle":"River Fish", "Spring": true, "Summer": true,"Fall": false, "Winter": false},
-  { "itemName":"Carp",room:"fish tank", "bundle":"River Fish", "Spring": true, "Summer": true,"Fall": true, "Winter": true} },
-  { "itemName":"Bullhead", room:"fish tank","bundle":"River Fish", "Spring": true, "Summer": true,"Fall": true, "Winter": true} },
-  { "itemName":"Sturgeon",room:"fish tank", "bundle":"River Fish", "Spring": false, "Summer": true,"Fall": false, "Winter": true} },
-  { "itemName":"Sardine",room:"fish tank", "bundle":"Ocean Fish", "Spring": true, "Summer": false,"Fall": true, "Winter": true} },
-  { "itemName":"Tuna",room:"fish tank", "bundle":"Ocean Fish", "Spring": false, "Summer": true,"Fall": false, "Winter": true} },
-  { "itemName":"Red Snapper",room:"fish tank", "bundle":"Ocean Fish", "Spring": false, "Summer": true,"Fall": true, "Winter": false} },
-  { "itemName":"Talapia",room:"fish tank", "bundle":"Ocean Fish", "Spring": false, "Summer": true,"Fall": true, "Winter": false} },
+  { "itemName":"Sun Fish", room:"fish tank", "bundle":"River Fish", "season": "Spring Summer", "likedby": "Elliot", "Location": "by the lake in the rain"},
+  { "itemName":"Carp",room:"fish tank", "bundle":"River Fish","season": "Spring, Summer, Fall, Winter", "likedby": "Elliot", "Location": "by the river at night"}},
+  { "itemName":"Bullhead", room:"fish tank","bundle":"River Fish","season": "Spring, Summer, Fall, Winter", "likedby": "Leah", "Location": "by the river at night"}},
+  { "itemName":"Sturgeon",room:"fish tank", "bundle":"River Fish", "season": "Summer, Winter", "likedby": "Leah", "Location": "by the river at night"} },
+  { "itemName":"Sardine",room:"fish tank", "bundle":"Ocean Fish", "season": "Spring, Fall, Winter", "likedby": "Shane, Penny", "Location": "in the creek"} },
+  { "itemName":"Tuna",room:"fish tank", "bundle":"Ocean Fish", "season": "Summer, Winter", "likedby": "Leah, Penny", "Location": "by the creek at dawn"} },
+  { "itemName":"Red Snapper",room:"fish tank", "bundle":"Ocean Fish", "season": "Summer, Fall", "likedby": "Leah, Elliot", "Location": "by the river in the rain"} },
+  { "itemName":"Talapia",room:"fish tank", "bundle":"Ocean Fish", "season": "Summer, Fall", "likedby": "Leah", "Location": "by the river at night"} },
 ]}
